@@ -1,4 +1,4 @@
-# AuthoInsurancePolicyDB
+# AuthoInsurancePolicyDB  
 CREATE DATABASE AutoInsurance
 GO
 
